@@ -5,3 +5,4 @@
 * https://www.marines.mil/Portals/1/MCWP%204-11.7.pdf
 * https://www.marines.mil/Portals/1/Publications/MCRP%204-11.8A%20Marine%20Corps%20Field%20Feeding%20Program.pdf?ver=2015-04-15-142108-363
 * https://apps.dtic.mil/sti/pdfs/AD1003699.pdf
+* https://www.scribd.com/document/280649788/MSTP-Pamphlet-5-0-3-200104-MAGTF-Planner-s-Reference-Manual-194#
